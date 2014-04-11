@@ -45,7 +45,7 @@ This is a drawing program for the raspberry pi that uses pygame. It's designed t
     WHITE = pygame.Color(255, 255, 255)
     ```
 
-    **note:**
+    **note: you'll need to use the american spelling of color...unfortunately it will break if you spell it the corect way with a `u`**
 8.  Now we'll build our window. Set up a forever loop and udate the display and add in an exit loop
     
     ```python
