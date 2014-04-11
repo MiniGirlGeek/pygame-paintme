@@ -8,7 +8,7 @@ This is a drawing program for the raspberry pi that uses pygame. It's designed t
 
 2.  Click `File > New Window` or hit `Ctrl + N`
 
-3.  Import the pygame, sys, os and time modules
+3.  Import the `pygame`, `sys`, `os` and `time` modules
 
     ```python
     import pygame
