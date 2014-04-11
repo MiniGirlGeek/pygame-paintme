@@ -88,7 +88,7 @@ This is a drawing program for the raspberry pi that uses pygame. It's designed t
       pygame.draw.circle(canvas, BLACK, (pygame.mouse.get_pos()),5)
     ```
 		
-		If you save and run now you should be able to draw!
+	If you save and run now you should be able to draw!
 
 13. Finally we're going to give your window a title. Below `pygame.init()` add in the following line of code, you can replace paintme with whatever title for your game you want!
 
