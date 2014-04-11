@@ -104,7 +104,7 @@ This is a drawing program for the raspberry pi that uses pygame. It's designed t
 > 5.  Allow the user to import a picture, draw on top of it, and resave the image
 >
 > And much much more!
-> You can find the codes for different key presses <a href='http://www.pygame.org/docs/ref/key.html' target='_blank'>here</a> and other pygame functionality <a href=''>here</a>.
+> You can find the codes for different key presses <a href='http://www.pygame.org/docs/ref/key.html' target='_blank'>here</a> and other pygame functionality <a href='http://www.pygame.org/docs/' target='_blank'>here</a>.
 
 
     
