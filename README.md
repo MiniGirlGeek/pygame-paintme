@@ -92,6 +92,12 @@ This is a drawing program for the raspberry pi that uses pygame. It's designed t
 	```python
 	window.blit(canvas, (0, 0))
 	```
+	
+	And before the `while True` loop add a line that fills in the background of the the canvas in white.
+
+	```python
+	canvas.fill(WHITE)
+	```
 		
 	If you save and run now you should be able to draw!
 
