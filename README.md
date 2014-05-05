@@ -88,6 +88,10 @@ This is a drawing program for the raspberry pi that uses pygame. It's designed t
     elif left_pressed:
       pygame.draw.circle(canvas, BLACK, (pygame.mouse.get_pos()),5)
     ```
+	And you'll also need to blit the canvas ontp the window, so before `window.fill(WHITE)` add in the following line:
+	```python
+	window.blit(canvas, (0, 0))
+	```
 		
 	If you save and run now you should be able to draw!
 
