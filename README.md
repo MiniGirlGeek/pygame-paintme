@@ -12,6 +12,7 @@ This is a drawing program for the raspberry pi that uses pygame. It's designed t
 
     ```python
     import pygame
+    from pygame.locals import *
     import sys, os
     import time
     ```
