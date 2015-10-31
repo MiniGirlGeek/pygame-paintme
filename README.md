@@ -2,7 +2,7 @@
 
 This is a drawing program for the raspberry pi that uses pygame. It's designed to be compatable with the Adafruit TFT.
 
-## Step by Step Guide
+## Step by step Guide
 
 1.  Open Idle (2.7, not 3)
 
